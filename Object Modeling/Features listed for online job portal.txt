@@ -1,0 +1,26 @@
+
+Online Job Portal:-
+
+
+Admin :
+->Login
+->Search
+->Manage account
+
+Applicants :
+->Registration
+->Login
+->Job Search
+->Apply jobs
+->Upload profile/resume
+
+
+
+Employer :
+->Registration
+->Login
+->Search profile
+->Profile match
+->Manage account
+->Post jobs
+
