@@ -1,0 +1,20 @@
+Railway Reservation System:
+
+Admin:
+->Manage Booking
+->Update train details
+
+
+Customer:
+->Search availability
+->Book Tickets
+->Cancel Tickets
+->Make Payment
+->Print Tickets
+
+Clerk:
+->Manage Payment
+->Manage Refunding
+->Manage Tickets
+->Manage Train Schedule
+->Print Tickets
