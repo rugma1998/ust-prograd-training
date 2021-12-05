@@ -1,0 +1,18 @@
+Online Shopping Portal :
+ 
+Customer :
+->Registration
+->Login
+->Search Items
+->View Items
+->Add to cart
+->Make Order
+->Make payment
+
+
+Admin:
+->Login
+->Add category
+->Add Items
+->Manage Items
+->Manage Order
